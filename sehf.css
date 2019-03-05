@@ -1,0 +1,106 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.header{
+    height:72px;
+    background: #fff;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 15px 20px;
+}
+.logo{
+    color:black;
+    float: left;
+}
+.menu{
+    float:right;
+    color:black;
+    padding-top:10px;
+}
+.menu a{
+color:black;
+text-decoration:none;
+}
+.content{
+    width:100%;
+}
+.container{
+    width:960px;
+    margin:0 auto;
+}
+.left{
+    float:left;
+    width:50%;
+}
+.right{
+    width:50%;
+    float:right;
+}
+.clear{
+    clear:both;
+}
+.left a{
+    font-size:bold;
+    color:white;
+    padding:30px 30 px;
+    background: #8490ff;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+}
+.sol{
+    float:left;
+    width:50% ;
+    
+}
+.sag{
+    float:right;
+    width:50%;
+}
+.sag a{
+    background: #8490ff;
+    display:inline-block;
+    border:none;
+    color:#fff;
+    padding:30px 30px;
+    text-decoration: none;
+    font-size:bold;
+    float: right;
+}
+.orta{
+    margin-bottom: 10px;
+    font-family: poppins,sans-serif;
+    color: #222;
+    margin-top: 0;
+    font-weight: 600;
+    text-align: center
+}
+.blogs{
+    display:flex;
+    background: -webkit-linear-gradient(0deg,#8490ff 0%,#62bdfc 100%);
+    color:white;
+}
+.blog{
+    padding:80px;
+    margin:20px;
+    text-align: center;
+}
+.orta1{
+    margin-bottom: 10px;
+    font-family: poppins,sans-serif;
+    color: #222;
+    margin-top: 0;
+    font-weight: 600;
+    text-align: center;
+}
+.orta1 p{
+    color:grey;
+}
+.orta p{
+    color:grey;
+}
+.left p{
+    color:grey;
+}
